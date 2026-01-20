@@ -37,7 +37,7 @@ The goal of this project was to analyse two distinct datasets—Gapminder Health
 <img width="1914" height="1030" alt="image" src="https://github.com/user-attachments/assets/b0203276-e28d-47a3-b129-8ec1e0347873" />
 
 **Dashboard Link:**  
-https://public.tableau.com/views/GlobalHealthInsights_17652854954790/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+[Link to my Dashboard](https://public.tableau.com/views/GlobalHealthInsights_17652854954790/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ---
 
@@ -62,7 +62,7 @@ https://public.tableau.com/views/GlobalHealthInsights_17652854954790/Dashboard1?
 <img width="1914" height="1030" alt="image" src="https://github.com/user-attachments/assets/32f2fd93-fbad-4878-a848-ffe72b4c7a0f" />
 
 **Dashboard Link:**  
-https://public.tableau.com/views/SpotifyInsights_17652931811300/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+[Link to my Dashboard](https://public.tableau.com/views/SpotifyInsights_17652931811300/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ---
 
@@ -84,7 +84,7 @@ https://public.tableau.com/views/SpotifyInsights_17652931811300/Dashboard1?:lang
 <img width="1910" height="1028" alt="image" src="https://github.com/user-attachments/assets/dfea5021-4323-43b4-abff-694c4ab1306f" />
 
 **Dashboard Link:**  
-https://public.tableau.com/views/GBEmploymentDashboard_17652853971800/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+[Link to my Dashboard](https://public.tableau.com/views/GBEmploymentDashboard_17652853971800/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ---
 
